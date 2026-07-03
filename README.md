@@ -32,7 +32,7 @@ $SOURCE_FOLDER = "D:\sourcefolder"
 $DEST_FOLDER   = "F:\des-folder"
 
 $WEBHOOK_URL   = "YOUR_GOOGLE_CHAT_WEBHOOK_URL"
-$TOPIC         = "GTS File Backup"
+$TOPIC         = "File Backup"
 ```
 
 ## Robocopy Options
